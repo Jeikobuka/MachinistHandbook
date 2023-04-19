@@ -1,0 +1,230 @@
+{
+    "Aluminum": {
+        "6061": {
+            "Carbide": {
+                "Drilling": 250,
+                "Milling": 500
+            },
+            "HSS": {
+                "Drilling": 125,
+                "Milling": 250
+            }
+        },
+        "7075": {
+            "Carbide": {
+                "Drilling": 150,
+                "Milling": 350
+            },
+            "HSS": {
+                "Drilling": 75,
+                "Milling": 150
+            }
+        }
+    },
+    "Stainless Steel": {
+        "304L": {
+            "Carbide": {
+                "Drilling": 50,
+                "Milling": 100
+            },
+            "HSS": {
+                "Drilling": 25,
+                "Milling": 50
+            }
+        },
+        "316L": {
+            "Carbide": {
+                "Drilling": 40,
+                "Milling": 80
+            },
+            "HSS": {
+                "Drilling": 20,
+                "Milling": 40
+            }
+        }
+    },
+    "Carbon Steel": {
+        "1018": {
+            "Carbide": {
+                "Drilling": 75,
+                "Milling": 150
+            },
+            "HSS": {
+                "Drilling": 40,
+                "Milling": 80
+            }
+        },
+        "1045": {
+            "Carbide": {
+                "Drilling": 60,
+                "Milling": 120
+            },
+            "HSS": {
+                "Drilling": 30,
+                "Milling": 60
+            }
+        }
+    },
+    "Titanium": {
+        "Ti-6Al-4V": {
+            "Carbide": {
+                "Drilling": 40,
+                "Milling": 80
+            },
+            "HSS": {
+                "Drilling": 20,
+                "Milling": 40
+            }
+        },
+        "Grade 2": {
+            "Carbide": {
+                "Drilling": 50,
+                "Milling": 100
+            },
+            "HSS": {
+                "Drilling": 25,
+                "Milling": 50
+            }
+        },
+        "Grade 5": {
+            "Carbide": {
+                "Drilling": 100,
+                "Milling": 200
+            },
+            "HSS": {
+                "Drilling": 50,
+                "Milling": 100
+            }
+        }
+    },
+    "Copper": {
+        "C110": {
+            "Carbide": {
+                "Drilling": 200,
+                "Milling": 400
+            },
+            "HSS": {
+                "Drilling": 100,
+                "Milling": 200
+            }
+        },
+        "C260": {
+            "Carbide": {
+                "Drilling": 150,
+                "Milling": 300
+            },
+            "HSS": {
+                "Drilling": 75,
+                "Milling": 150
+            }
+        }
+    },
+    "Plastics": {
+        "Delrin": {
+            "Carbide": {
+                "Drilling": 250,
+                "Milling": 500
+            },
+            "HSS": {
+                "Drilling": 125,
+                "Milling": 250
+            }
+        },
+        "Nylon": {
+            "Carbide": {
+                "Drilling": 500,
+                "Milling": 1000
+            },
+            "HSS": {
+                "Drilling": 250,
+                "Milling": 500
+            }
+        },
+        "PVC": {
+            "Carbide": {
+                "Drilling": 500,
+                "Milling": 1500
+            },
+            "HSS": {
+                "Drilling": 250,
+                "Milling": 750
+            }
+        },
+        "PEEK": {
+            "Carbide": {
+                "Drilling": 250,
+                "Milling": 750
+            },
+            "HSS": {
+                "Drilling": 125,
+                "Milling": 375
+            }
+        }
+    },
+    "Carbon Steels": {
+        "1018": {
+            "Carbide": {
+                "Drilling": 75,
+                "Milling": 400
+            },
+            "HSS": {
+                "Drilling": 50,
+                "Milling": 250
+            }
+        },
+        "1045": {
+            "Carbide": {
+                "Drilling": 50,
+                "Milling": 300
+            },
+            "HSS": {
+                "Drilling": 35,
+                "Milling": 175
+            }
+        }
+    },
+    "Composites": {
+        "Fiberglass": {
+            "Carbide": {
+                "Drilling": 200,
+                "Milling": 600
+            },
+            "HSS": {
+                "Drilling": 100,
+                "Milling": 300
+            }
+        },
+        "Carbon Fiber": {
+            "Carbide": {
+                "Drilling": 150,
+                "Milling": 500
+            },
+            "HSS": {
+                "Drilling": 75,
+                "Milling": 250
+            }
+        }
+    },
+    "Cast Iron": {
+        "Gray Cast Iron": {
+            "Carbide": {
+                "Drilling": 75,
+                "Milling": 300
+            },
+            "HSS": {
+                "Drilling": 50,
+                "Milling": 200
+            }
+        },
+        "Ductile Cast Iron": {
+            "Carbide": {
+                "Drilling": 50,
+                "Milling": 200
+            },
+            "HSS": {
+                "Drilling": 35,
+                "Milling": 150
+            }
+        }
+    }
+}
