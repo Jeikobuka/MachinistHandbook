@@ -1,0 +1,1234 @@
+{
+    "#0000-160":{
+       "Tap Size":"#0000-160",
+       "Diameter (Inches)":"0.0210",
+       "Diameter (Millimeters)":"0.5334",
+       "TPI":"160",
+       "Pitch (Millimeters)":"0.159",
+       "Tap Drill Size":"1/64"
+    },
+    "#000-120":{
+       "Tap Size":"#000-120",
+       "Diameter (Inches)":"0.0340",
+       "Diameter (Millimeters)":"0.8636",
+       "TPI":"120",
+       "Pitch (Millimeters)":"0.212",
+       "Tap Drill Size":"#71"
+    },
+    "M1x0.2":{
+       "Tap Size":"M1x0.2",
+       "Diameter (Inches)":"0.0394",
+       "Diameter (Millimeters)":"1.0000",
+       "TPI":"~127",
+       "Pitch (Millimeters)":"0.200",
+       "Tap Drill Size":"0.8"
+    },
+    "M1x0.25":{
+       "Tap Size":"M1x0.25",
+       "Diameter (Inches)":"0.0394",
+       "Diameter (Millimeters)":"1.0000",
+       "TPI":"~102",
+       "Pitch (Millimeters)":"0.250",
+       "Tap Drill Size":"0.75"
+    },
+    "M1.1x0.25":{
+       "Tap Size":"M1.1x0.25",
+       "Diameter (Inches)":"0.0433",
+       "Diameter (Millimeters)":"1.1000",
+       "TPI":"~102",
+       "Pitch (Millimeters)":"0.250",
+       "Tap Drill Size":"0.85"
+    },
+    "M1.1x0.2":{
+       "Tap Size":"M1.1x0.2",
+       "Diameter (Inches)":"0.0433",
+       "Diameter (Millimeters)":"1.1000",
+       "TPI":"~127",
+       "Pitch (Millimeters)":"0.200",
+       "Tap Drill Size":"0.9"
+    },
+    "#00-90":{
+       "Tap Size":"#00-90",
+       "Diameter (Inches)":"0.0470",
+       "Diameter (Millimeters)":"1.1938",
+       "TPI":"90",
+       "Pitch (Millimeters)":"0.282",
+       "Tap Drill Size":"#65"
+    },
+    "M1.2x0.2":{
+       "Tap Size":"M1.2x0.2",
+       "Diameter (Inches)":"0.0472",
+       "Diameter (Millimeters)":"1.2000",
+       "TPI":"~127",
+       "Pitch (Millimeters)":"0.200",
+       "Tap Drill Size":"1"
+    },
+    "M1.2x0.25":{
+       "Tap Size":"M1.2x0.25",
+       "Diameter (Inches)":"0.0472",
+       "Diameter (Millimeters)":"1.2000",
+       "TPI":"~102",
+       "Pitch (Millimeters)":"0.250",
+       "Tap Drill Size":"0.95"
+    },
+    "M1.4x0.2":{
+       "Tap Size":"M1.4x0.2",
+       "Diameter (Inches)":"0.0551",
+       "Diameter (Millimeters)":"1.4000",
+       "TPI":"~127",
+       "Pitch (Millimeters)":"0.200",
+       "Tap Drill Size":"1.2"
+    },
+    "M1.4x0.3":{
+       "Tap Size":"M1.4x0.3",
+       "Diameter (Inches)":"0.0551",
+       "Diameter (Millimeters)":"1.4000",
+       "TPI":"~85",
+       "Pitch (Millimeters)":"0.300",
+       "Tap Drill Size":"1.1"
+    },
+    "#0-80":{
+       "Tap Size":"#0-80",
+       "Diameter (Inches)":"0.0600",
+       "Diameter (Millimeters)":"1.5240",
+       "TPI":"80",
+       "Pitch (Millimeters)":"0.318",
+       "Tap Drill Size":"3/64"
+    },
+    "M1.6x0.2":{
+       "Tap Size":"M1.6x0.2",
+       "Diameter (Inches)":"0.0630",
+       "Diameter (Millimeters)":"1.6000",
+       "TPI":"~127",
+       "Pitch (Millimeters)":"0.200",
+       "Tap Drill Size":"1.4"
+    },
+    "M1.6x0.35":{
+       "Tap Size":"M1.6x0.35",
+       "Diameter (Inches)":"0.0630",
+       "Diameter (Millimeters)":"1.6000",
+       "TPI":"~73",
+       "Pitch (Millimeters)":"0.350",
+       "Tap Drill Size":"1.25"
+    },
+    "M1.8x0.2":{
+       "Tap Size":"M1.8x0.2",
+       "Diameter (Inches)":"0.0709",
+       "Diameter (Millimeters)":"1.8000",
+       "TPI":"~127",
+       "Pitch (Millimeters)":"0.200",
+       "Tap Drill Size":"1.6"
+    },
+    "M1.8x0.35":{
+       "Tap Size":"M1.8x0.35",
+       "Diameter (Inches)":"0.0709",
+       "Diameter (Millimeters)":"1.8000",
+       "TPI":"~73",
+       "Pitch (Millimeters)":"0.350",
+       "Tap Drill Size":"1.45"
+    },
+    "#1-64":{
+       "Tap Size":"#1-64",
+       "Diameter (Inches)":"0.0730",
+       "Diameter (Millimeters)":"1.8542",
+       "TPI":"64",
+       "Pitch (Millimeters)":"0.397",
+       "Tap Drill Size":"#52"
+    },
+    "#1-72":{
+       "Tap Size":"#1-72",
+       "Diameter (Inches)":"0.0730",
+       "Diameter (Millimeters)":"1.8542",
+       "TPI":"72",
+       "Pitch (Millimeters)":"0.353",
+       "Tap Drill Size":"#53"
+    },
+    "M2x0.25":{
+       "Tap Size":"M2x0.25",
+       "Diameter (Inches)":"0.0787",
+       "Diameter (Millimeters)":"2.0000",
+       "TPI":"~102",
+       "Pitch (Millimeters)":"0.250",
+       "Tap Drill Size":"1.75"
+    },
+    "M2x0.4":{
+       "Tap Size":"M2x0.4",
+       "Diameter (Inches)":"0.0787",
+       "Diameter (Millimeters)":"2.0000",
+       "TPI":"~64",
+       "Pitch (Millimeters)":"0.400",
+       "Tap Drill Size":"1.6"
+    },
+    "#2-56":{
+       "Tap Size":"#2-56",
+       "Diameter (Inches)":"0.0860",
+       "Diameter (Millimeters)":"2.1844",
+       "TPI":"56",
+       "Pitch (Millimeters)":"0.454",
+       "Tap Drill Size":"#50"
+    },
+    "#2-64":{
+       "Tap Size":"#2-64",
+       "Diameter (Inches)":"0.0860",
+       "Diameter (Millimeters)":"2.1844",
+       "TPI":"64",
+       "Pitch (Millimeters)":"0.397",
+       "Tap Drill Size":"#50"
+    },
+    "M2.2x0.25":{
+       "Tap Size":"M2.2x0.25",
+       "Diameter (Inches)":"0.0866",
+       "Diameter (Millimeters)":"2.2000",
+       "TPI":"~102",
+       "Pitch (Millimeters)":"0.250",
+       "Tap Drill Size":"1.95"
+    },
+    "M2.2x0.45":{
+       "Tap Size":"M2.2x0.45",
+       "Diameter (Inches)":"0.0866",
+       "Diameter (Millimeters)":"2.2000",
+       "TPI":"~57",
+       "Pitch (Millimeters)":"0.450",
+       "Tap Drill Size":"1.75"
+    },
+    "M2.5x0.35":{
+       "Tap Size":"M2.5x0.35",
+       "Diameter (Inches)":"0.0984",
+       "Diameter (Millimeters)":"2.5000",
+       "TPI":"~73",
+       "Pitch (Millimeters)":"0.350",
+       "Tap Drill Size":"2.1"
+    },
+    "M2.5x0.45":{
+       "Tap Size":"M2.5x0.45",
+       "Diameter (Inches)":"0.0984",
+       "Diameter (Millimeters)":"2.5000",
+       "TPI":"~57",
+       "Pitch (Millimeters)":"0.450",
+       "Tap Drill Size":"2.05"
+    },
+    "#3-48":{
+       "Tap Size":"#3-48",
+       "Diameter (Inches)":"0.0990",
+       "Diameter (Millimeters)":"2.5146",
+       "TPI":"48",
+       "Pitch (Millimeters)":"0.529",
+       "Tap Drill Size":"#47"
+    },
+    "#3-56":{
+       "Tap Size":"#3-56",
+       "Diameter (Inches)":"0.0990",
+       "Diameter (Millimeters)":"2.5146",
+       "TPI":"56",
+       "Pitch (Millimeters)":"0.454",
+       "Tap Drill Size":"#45"
+    },
+    "#4-40":{
+       "Tap Size":"#4-40",
+       "Diameter (Inches)":"0.1120",
+       "Diameter (Millimeters)":"2.8448",
+       "TPI":"40",
+       "Pitch (Millimeters)":"0.635",
+       "Tap Drill Size":"#43"
+    },
+    "#4-48":{
+       "Tap Size":"#4-48",
+       "Diameter (Inches)":"0.1120",
+       "Diameter (Millimeters)":"2.8448",
+       "TPI":"48",
+       "Pitch (Millimeters)":"0.529",
+       "Tap Drill Size":"#42"
+    },
+    "M3x0.35":{
+       "Tap Size":"M3x0.35",
+       "Diameter (Inches)":"0.1181",
+       "Diameter (Millimeters)":"3.0000",
+       "TPI":"~73",
+       "Pitch (Millimeters)":"0.350",
+       "Tap Drill Size":"2.6"
+    },
+    "M3x0.5":{
+       "Tap Size":"M3x0.5",
+       "Diameter (Inches)":"0.1181",
+       "Diameter (Millimeters)":"3.0000",
+       "TPI":"~51",
+       "Pitch (Millimeters)":"0.500",
+       "Tap Drill Size":"2.5"
+    },
+    "#5-40":{
+       "Tap Size":"#5-40",
+       "Diameter (Inches)":"0.1250",
+       "Diameter (Millimeters)":"3.1750",
+       "TPI":"40",
+       "Pitch (Millimeters)":"0.635",
+       "Tap Drill Size":"#39"
+    },
+    "#5-44":{
+       "Tap Size":"#5-44",
+       "Diameter (Inches)":"0.1250",
+       "Diameter (Millimeters)":"3.1750",
+       "TPI":"44",
+       "Pitch (Millimeters)":"0.577",
+       "Tap Drill Size":"#37"
+    },
+    "M3.5x0.35":{
+       "Tap Size":"M3.5x0.35",
+       "Diameter (Inches)":"0.1378",
+       "Diameter (Millimeters)":"3.5000",
+       "TPI":"~73",
+       "Pitch (Millimeters)":"0.350",
+       "Tap Drill Size":"3.1"
+    },
+    "M3.5x0.6":{
+       "Tap Size":"M3.5x0.6",
+       "Diameter (Inches)":"0.1378",
+       "Diameter (Millimeters)":"3.5000",
+       "TPI":"~43",
+       "Pitch (Millimeters)":"0.600",
+       "Tap Drill Size":"2.9"
+    },
+    "#6-32":{
+       "Tap Size":"#6-32",
+       "Diameter (Inches)":"0.1380",
+       "Diameter (Millimeters)":"3.5052",
+       "TPI":"32",
+       "Pitch (Millimeters)":"0.794",
+       "Tap Drill Size":"#36"
+    },
+    "#6-40":{
+       "Tap Size":"#6-40",
+       "Diameter (Inches)":"0.1380",
+       "Diameter (Millimeters)":"3.5052",
+       "TPI":"40",
+       "Pitch (Millimeters)":"0.635",
+       "Tap Drill Size":"#33"
+    },
+    "M4x0.35":{
+       "Tap Size":"M4x0.35",
+       "Diameter (Inches)":"0.1575",
+       "Diameter (Millimeters)":"4.0000",
+       "TPI":"~73",
+       "Pitch (Millimeters)":"0.350",
+       "Tap Drill Size":"3.6"
+    },
+    "M4x0.5":{
+       "Tap Size":"M4x0.5",
+       "Diameter (Inches)":"0.1575",
+       "Diameter (Millimeters)":"4.0000",
+       "TPI":"~51",
+       "Pitch (Millimeters)":"0.500",
+       "Tap Drill Size":"3.5"
+    },
+    "M4x0.7":{
+       "Tap Size":"M4x0.7",
+       "Diameter (Inches)":"0.1575",
+       "Diameter (Millimeters)":"4.0000",
+       "TPI":"~37",
+       "Pitch (Millimeters)":"0.700",
+       "Tap Drill Size":"3.3"
+    },
+    "#8-32":{
+       "Tap Size":"#8-32",
+       "Diameter (Inches)":"0.1640",
+       "Diameter (Millimeters)":"4.1656",
+       "TPI":"32",
+       "Pitch (Millimeters)":"0.794",
+       "Tap Drill Size":"#29"
+    },
+    "#8-36":{
+       "Tap Size":"#8-36",
+       "Diameter (Inches)":"0.1640",
+       "Diameter (Millimeters)":"4.1656",
+       "TPI":"36",
+       "Pitch (Millimeters)":"0.706",
+       "Tap Drill Size":"#29"
+    },
+    "M4.5x0.5":{
+       "Tap Size":"M4.5x0.5",
+       "Diameter (Inches)":"0.1772",
+       "Diameter (Millimeters)":"4.5000",
+       "TPI":"~51",
+       "Pitch (Millimeters)":"0.500",
+       "Tap Drill Size":"4"
+    },
+    "M4.5x0.75":{
+       "Tap Size":"M4.5x0.75",
+       "Diameter (Inches)":"0.1772",
+       "Diameter (Millimeters)":"4.5000",
+       "TPI":"~34",
+       "Pitch (Millimeters)":"0.750",
+       "Tap Drill Size":"3.8"
+    },
+    "#10-32":{
+       "Tap Size":"#10-32",
+       "Diameter (Inches)":"0.1900",
+       "Diameter (Millimeters)":"4.8260",
+       "TPI":"32",
+       "Pitch (Millimeters)":"0.794",
+       "Tap Drill Size":"#21"
+    },
+    "#10-24":{
+       "Tap Size":"#10-24",
+       "Diameter (Inches)":"0.1900",
+       "Diameter (Millimeters)":"4.8260",
+       "TPI":"24",
+       "Pitch (Millimeters)":"1.058",
+       "Tap Drill Size":"#25"
+    },
+    "M5x0.5":{
+       "Tap Size":"M5x0.5",
+       "Diameter (Inches)":"0.1969",
+       "Diameter (Millimeters)":"5.0000",
+       "TPI":"~51",
+       "Pitch (Millimeters)":"0.500",
+       "Tap Drill Size":"4.5"
+    },
+    "M5x0.8":{
+       "Tap Size":"M5x0.8",
+       "Diameter (Inches)":"0.1969",
+       "Diameter (Millimeters)":"5.0000",
+       "TPI":"~32",
+       "Pitch (Millimeters)":"0.800",
+       "Tap Drill Size":"4.2"
+    },
+    "#12-24":{
+       "Tap Size":"#12-24",
+       "Diameter (Inches)":"0.2160",
+       "Diameter (Millimeters)":"5.4864",
+       "TPI":"24",
+       "Pitch (Millimeters)":"1.058",
+       "Tap Drill Size":"#17"
+    },
+    "#12-28":{
+       "Tap Size":"#12-28",
+       "Diameter (Inches)":"0.2160",
+       "Diameter (Millimeters)":"5.4864",
+       "TPI":"28",
+       "Pitch (Millimeters)":"0.907",
+       "Tap Drill Size":"#15"
+    },
+    "M5.5x0.5":{
+       "Tap Size":"M5.5x0.5",
+       "Diameter (Inches)":"0.2165",
+       "Diameter (Millimeters)":"5.5000",
+       "TPI":"~51",
+       "Pitch (Millimeters)":"0.500",
+       "Tap Drill Size":"5"
+    },
+    "M6x0.5":{
+       "Tap Size":"M6x0.5",
+       "Diameter (Inches)":"0.2362",
+       "Diameter (Millimeters)":"6.0000",
+       "TPI":"~51",
+       "Pitch (Millimeters)":"0.500",
+       "Tap Drill Size":"5.5"
+    },
+    "M6x0.75":{
+       "Tap Size":"M6x0.75",
+       "Diameter (Inches)":"0.2362",
+       "Diameter (Millimeters)":"6.0000",
+       "TPI":"~34",
+       "Pitch (Millimeters)":"0.750",
+       "Tap Drill Size":"5.2"
+    },
+    "M6x1":{
+       "Tap Size":"M6x1",
+       "Diameter (Inches)":"0.2362",
+       "Diameter (Millimeters)":"6.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"5"
+    },
+    "1/4-20":{
+       "Tap Size":"1/4-20",
+       "Diameter (Inches)":"0.2500",
+       "Diameter (Millimeters)":"6.3500",
+       "TPI":"20",
+       "Pitch (Millimeters)":"1.270",
+       "Tap Drill Size":"#7"
+    },
+    "1/4-28":{
+       "Tap Size":"1/4-28",
+       "Diameter (Inches)":"0.2500",
+       "Diameter (Millimeters)":"6.3500",
+       "TPI":"28",
+       "Pitch (Millimeters)":"0.907",
+       "Tap Drill Size":"#3"
+    },
+    "M7x0.75":{
+       "Tap Size":"M7x0.75",
+       "Diameter (Inches)":"0.2756",
+       "Diameter (Millimeters)":"7.0000",
+       "TPI":"~34",
+       "Pitch (Millimeters)":"0.750",
+       "Tap Drill Size":"6.2"
+    },
+    "M7x1":{
+       "Tap Size":"M7x1",
+       "Diameter (Inches)":"0.2756",
+       "Diameter (Millimeters)":"7.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"6"
+    },
+    "5/16-18":{
+       "Tap Size":"5/16-18",
+       "Diameter (Inches)":"0.3125",
+       "Diameter (Millimeters)":"7.9375",
+       "TPI":"18",
+       "Pitch (Millimeters)":"1.411",
+       "Tap Drill Size":"F"
+    },
+    "5/16-24":{
+       "Tap Size":"5/16-24",
+       "Diameter (Inches)":"0.3125",
+       "Diameter (Millimeters)":"7.9375",
+       "TPI":"24",
+       "Pitch (Millimeters)":"1.058",
+       "Tap Drill Size":"I"
+    },
+    "M8x0.5":{
+       "Tap Size":"M8x0.5",
+       "Diameter (Inches)":"0.3150",
+       "Diameter (Millimeters)":"8.0000",
+       "TPI":"~51",
+       "Pitch (Millimeters)":"0.500",
+       "Tap Drill Size":"7.5"
+    },
+    "M8x0.75":{
+       "Tap Size":"M8x0.75",
+       "Diameter (Inches)":"0.3150",
+       "Diameter (Millimeters)":"8.0000",
+       "TPI":"~34",
+       "Pitch (Millimeters)":"0.750",
+       "Tap Drill Size":"7.2"
+    },
+    "M8x1":{
+       "Tap Size":"M8x1",
+       "Diameter (Inches)":"0.3150",
+       "Diameter (Millimeters)":"8.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"7"
+    },
+    "M8x1.25":{
+       "Tap Size":"M8x1.25",
+       "Diameter (Inches)":"0.3150",
+       "Diameter (Millimeters)":"8.0000",
+       "TPI":"~21",
+       "Pitch (Millimeters)":"1.250",
+       "Tap Drill Size":"6.8"
+    },
+    "M9x0.75":{
+       "Tap Size":"M9x0.75",
+       "Diameter (Inches)":"0.3543",
+       "Diameter (Millimeters)":"9.0000",
+       "TPI":"~34",
+       "Pitch (Millimeters)":"0.750",
+       "Tap Drill Size":"8.2"
+    },
+    "M9x1":{
+       "Tap Size":"M9x1",
+       "Diameter (Inches)":"0.3543",
+       "Diameter (Millimeters)":"9.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"8"
+    },
+    "M9x1.25":{
+       "Tap Size":"M9x1.25",
+       "Diameter (Inches)":"0.3543",
+       "Diameter (Millimeters)":"9.0000",
+       "TPI":"~21",
+       "Pitch (Millimeters)":"1.250",
+       "Tap Drill Size":"7.8"
+    },
+    "3/8-24":{
+       "Tap Size":"3/8-24",
+       "Diameter (Inches)":"0.3750",
+       "Diameter (Millimeters)":"9.5250",
+       "TPI":"24",
+       "Pitch (Millimeters)":"1.058",
+       "Tap Drill Size":"Q"
+    },
+    "3/8-16":{
+       "Tap Size":"3/8-16",
+       "Diameter (Inches)":"0.3750",
+       "Diameter (Millimeters)":"9.5250",
+       "TPI":"16",
+       "Pitch (Millimeters)":"1.588",
+       "Tap Drill Size":"5/16"
+    },
+    "M10x0.75":{
+       "Tap Size":"M10x0.75",
+       "Diameter (Inches)":"0.3937",
+       "Diameter (Millimeters)":"10.0000",
+       "TPI":"~34",
+       "Pitch (Millimeters)":"0.750",
+       "Tap Drill Size":"9.2"
+    },
+    "M10x1.5":{
+       "Tap Size":"M10x1.5",
+       "Diameter (Inches)":"0.3937",
+       "Diameter (Millimeters)":"10.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"8.5"
+    },
+    "M10x1.25":{
+       "Tap Size":"M10x1.25",
+       "Diameter (Inches)":"0.3937",
+       "Diameter (Millimeters)":"10.0000",
+       "TPI":"~21",
+       "Pitch (Millimeters)":"1.250",
+       "Tap Drill Size":"8.8"
+    },
+    "M10x1":{
+       "Tap Size":"M10x1",
+       "Diameter (Inches)":"0.3937",
+       "Diameter (Millimeters)":"10.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"9"
+    },
+    "M11x0.75":{
+       "Tap Size":"M11x0.75",
+       "Diameter (Inches)":"0.4331",
+       "Diameter (Millimeters)":"11.0000",
+       "TPI":"~34",
+       "Pitch (Millimeters)":"0.750",
+       "Tap Drill Size":"10.2"
+    },
+    "M11x1":{
+       "Tap Size":"M11x1",
+       "Diameter (Inches)":"0.4331",
+       "Diameter (Millimeters)":"11.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"10"
+    },
+    "M11x1.5":{
+       "Tap Size":"M11x1.5",
+       "Diameter (Inches)":"0.4331",
+       "Diameter (Millimeters)":"11.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"9.5"
+    },
+    "7/16-14":{
+       "Tap Size":"7/16-14",
+       "Diameter (Inches)":"0.4375",
+       "Diameter (Millimeters)":"11.1125",
+       "TPI":"14",
+       "Pitch (Millimeters)":"1.814",
+       "Tap Drill Size":"U"
+    },
+    "7/16-20":{
+       "Tap Size":"7/16-20",
+       "Diameter (Inches)":"0.4375",
+       "Diameter (Millimeters)":"11.1125",
+       "TPI":"20",
+       "Pitch (Millimeters)":"1.270",
+       "Tap Drill Size":"25/64"
+    },
+    "M12x1.5":{
+       "Tap Size":"M12x1.5",
+       "Diameter (Inches)":"0.4724",
+       "Diameter (Millimeters)":"12.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"10.5"
+    },
+    "M12x1.75":{
+       "Tap Size":"M12x1.75",
+       "Diameter (Inches)":"0.4724",
+       "Diameter (Millimeters)":"12.0000",
+       "TPI":"~15",
+       "Pitch (Millimeters)":"1.750",
+       "Tap Drill Size":"10.2"
+    },
+    "M12x0.75":{
+       "Tap Size":"M12x0.75",
+       "Diameter (Inches)":"0.4724",
+       "Diameter (Millimeters)":"12.0000",
+       "TPI":"~34",
+       "Pitch (Millimeters)":"0.750",
+       "Tap Drill Size":"11.25"
+    },
+    "M12x1":{
+       "Tap Size":"M12x1",
+       "Diameter (Inches)":"0.4724",
+       "Diameter (Millimeters)":"12.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"11"
+    },
+    "M12x1.25":{
+       "Tap Size":"M12x1.25",
+       "Diameter (Inches)":"0.4724",
+       "Diameter (Millimeters)":"12.0000",
+       "TPI":"~21",
+       "Pitch (Millimeters)":"1.250",
+       "Tap Drill Size":"10.8"
+    },
+    "1/2-20":{
+       "Tap Size":"1/2-20",
+       "Diameter (Inches)":"0.5000",
+       "Diameter (Millimeters)":"12.7000",
+       "TPI":"20",
+       "Pitch (Millimeters)":"1.270",
+       "Tap Drill Size":"29/64"
+    },
+    "1/2-13":{
+       "Tap Size":"1/2-13",
+       "Diameter (Inches)":"0.5000",
+       "Diameter (Millimeters)":"12.7000",
+       "TPI":"13",
+       "Pitch (Millimeters)":"1.954",
+       "Tap Drill Size":"27/64"
+    },
+    "M14x1.5":{
+       "Tap Size":"M14x1.5",
+       "Diameter (Inches)":"0.5512",
+       "Diameter (Millimeters)":"14.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"12.5"
+    },
+    "M14x1.25":{
+       "Tap Size":"M14x1.25",
+       "Diameter (Inches)":"0.5512",
+       "Diameter (Millimeters)":"14.0000",
+       "TPI":"~21",
+       "Pitch (Millimeters)":"1.250",
+       "Tap Drill Size":"12.8"
+    },
+    "M14x1":{
+       "Tap Size":"M14x1",
+       "Diameter (Inches)":"0.5512",
+       "Diameter (Millimeters)":"14.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"13"
+    },
+    "M14x2":{
+       "Tap Size":"M14x2",
+       "Diameter (Inches)":"0.5512",
+       "Diameter (Millimeters)":"14.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"12"
+    },
+    "9/16-18":{
+       "Tap Size":"9/16-18",
+       "Diameter (Inches)":"0.5625",
+       "Diameter (Millimeters)":"14.2875",
+       "TPI":"18",
+       "Pitch (Millimeters)":"1.411",
+       "Tap Drill Size":"33/64"
+    },
+    "9/16-12":{
+       "Tap Size":"9/16-12",
+       "Diameter (Inches)":"0.5625",
+       "Diameter (Millimeters)":"14.2875",
+       "TPI":"12",
+       "Pitch (Millimeters)":"2.117",
+       "Tap Drill Size":"31/64"
+    },
+    "M15x1":{
+       "Tap Size":"M15x1",
+       "Diameter (Inches)":"0.5906",
+       "Diameter (Millimeters)":"15.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"14"
+    },
+    "M15x1.5":{
+       "Tap Size":"M15x1.5",
+       "Diameter (Inches)":"0.5906",
+       "Diameter (Millimeters)":"15.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"13.5"
+    },
+    "5/8-18":{
+       "Tap Size":"5/8-18",
+       "Diameter (Inches)":"0.6250",
+       "Diameter (Millimeters)":"15.8750",
+       "TPI":"18",
+       "Pitch (Millimeters)":"1.411",
+       "Tap Drill Size":"37/64"
+    },
+    "5/8-11":{
+       "Tap Size":"5/8-11",
+       "Diameter (Inches)":"0.6250",
+       "Diameter (Millimeters)":"15.8750",
+       "TPI":"11",
+       "Pitch (Millimeters)":"2.309",
+       "Tap Drill Size":"17/32"
+    },
+    "M16x2":{
+       "Tap Size":"M16x2",
+       "Diameter (Inches)":"0.6299",
+       "Diameter (Millimeters)":"16.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"14"
+    },
+    "M16x1.5":{
+       "Tap Size":"M16x1.5",
+       "Diameter (Inches)":"0.6299",
+       "Diameter (Millimeters)":"16.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"14.5"
+    },
+    "M16x1":{
+       "Tap Size":"M16x1",
+       "Diameter (Inches)":"0.6299",
+       "Diameter (Millimeters)":"16.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"15"
+    },
+    "M17x1":{
+       "Tap Size":"M17x1",
+       "Diameter (Inches)":"0.6693",
+       "Diameter (Millimeters)":"17.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"16"
+    },
+    "M17x1.5":{
+       "Tap Size":"M17x1.5",
+       "Diameter (Inches)":"0.6693",
+       "Diameter (Millimeters)":"17.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"15.5"
+    },
+    "M18x2.5":{
+       "Tap Size":"M18x2.5",
+       "Diameter (Inches)":"0.7087",
+       "Diameter (Millimeters)":"18.0000",
+       "TPI":"~11",
+       "Pitch (Millimeters)":"2.500",
+       "Tap Drill Size":"15.5"
+    },
+    "M18x1":{
+       "Tap Size":"M18x1",
+       "Diameter (Inches)":"0.7087",
+       "Diameter (Millimeters)":"18.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"17"
+    },
+    "M18x1.5":{
+       "Tap Size":"M18x1.5",
+       "Diameter (Inches)":"0.7087",
+       "Diameter (Millimeters)":"18.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"16.5"
+    },
+    "M18x2":{
+       "Tap Size":"M18x2",
+       "Diameter (Inches)":"0.7087",
+       "Diameter (Millimeters)":"18.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"16"
+    },
+    "3/4-16":{
+       "Tap Size":"3/4-16",
+       "Diameter (Inches)":"0.7500",
+       "Diameter (Millimeters)":"19.0500",
+       "TPI":"16",
+       "Pitch (Millimeters)":"1.588",
+       "Tap Drill Size":"11/16"
+    },
+    "3/4-10":{
+       "Tap Size":"3/4-10",
+       "Diameter (Inches)":"0.7500",
+       "Diameter (Millimeters)":"19.0500",
+       "TPI":"10",
+       "Pitch (Millimeters)":"2.540",
+       "Tap Drill Size":"21/32"
+    },
+    "M20x2":{
+       "Tap Size":"M20x2",
+       "Diameter (Inches)":"0.7874",
+       "Diameter (Millimeters)":"20.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"18"
+    },
+    "M20x1.5":{
+       "Tap Size":"M20x1.5",
+       "Diameter (Inches)":"0.7874",
+       "Diameter (Millimeters)":"20.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"18.5"
+    },
+    "M20x1":{
+       "Tap Size":"M20x1",
+       "Diameter (Inches)":"0.7874",
+       "Diameter (Millimeters)":"20.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"19"
+    },
+    "M20x2.5":{
+       "Tap Size":"M20x2.5",
+       "Diameter (Inches)":"0.7874",
+       "Diameter (Millimeters)":"20.0000",
+       "TPI":"~11",
+       "Pitch (Millimeters)":"2.500",
+       "Tap Drill Size":"17.5"
+    },
+    "M22x2":{
+       "Tap Size":"M22x2",
+       "Diameter (Inches)":"0.8661",
+       "Diameter (Millimeters)":"22.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"20"
+    },
+    "M22x1.5":{
+       "Tap Size":"M22x1.5",
+       "Diameter (Inches)":"0.8661",
+       "Diameter (Millimeters)":"22.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"20.5"
+    },
+    "M22x1":{
+       "Tap Size":"M22x1",
+       "Diameter (Inches)":"0.8661",
+       "Diameter (Millimeters)":"22.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"21"
+    },
+    "M22x2.5":{
+       "Tap Size":"M22x2.5",
+       "Diameter (Inches)":"0.8661",
+       "Diameter (Millimeters)":"22.0000",
+       "TPI":"~11",
+       "Pitch (Millimeters)":"2.500",
+       "Tap Drill Size":"19.5"
+    },
+    "7/8-9":{
+       "Tap Size":"7/8-9",
+       "Diameter (Inches)":"0.8750",
+       "Diameter (Millimeters)":"22.2250",
+       "TPI":"9",
+       "Pitch (Millimeters)":"2.822",
+       "Tap Drill Size":"49/64"
+    },
+    "7/8-14":{
+       "Tap Size":"7/8-14",
+       "Diameter (Inches)":"0.8750",
+       "Diameter (Millimeters)":"22.2250",
+       "TPI":"14",
+       "Pitch (Millimeters)":"1.814",
+       "Tap Drill Size":"13/16"
+    },
+    "M24x3":{
+       "Tap Size":"M24x3",
+       "Diameter (Inches)":"0.9449",
+       "Diameter (Millimeters)":"24.0000",
+       "TPI":"~9",
+       "Pitch (Millimeters)":"3.000",
+       "Tap Drill Size":"21"
+    },
+    "M24x1":{
+       "Tap Size":"M24x1",
+       "Diameter (Inches)":"0.9449",
+       "Diameter (Millimeters)":"24.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"23"
+    },
+    "M24x1.5":{
+       "Tap Size":"M24x1.5",
+       "Diameter (Inches)":"0.9449",
+       "Diameter (Millimeters)":"24.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"22.5"
+    },
+    "M24x2":{
+       "Tap Size":"M24x2",
+       "Diameter (Inches)":"0.9449",
+       "Diameter (Millimeters)":"24.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"22"
+    },
+    "M25x2":{
+       "Tap Size":"M25x2",
+       "Diameter (Inches)":"0.9843",
+       "Diameter (Millimeters)":"25.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"23"
+    },
+    "M25x1":{
+       "Tap Size":"M25x1",
+       "Diameter (Inches)":"0.9843",
+       "Diameter (Millimeters)":"25.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"24"
+    },
+    "M25x1.5":{
+       "Tap Size":"M25x1.5",
+       "Diameter (Inches)":"0.9843",
+       "Diameter (Millimeters)":"25.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"23.5"
+    },
+    "1-14":{
+       "Tap Size":"1-14",
+       "Diameter (Inches)":"1.0000",
+       "Diameter (Millimeters)":"25.4000",
+       "TPI":"14",
+       "Pitch (Millimeters)":"1.814",
+       "Tap Drill Size":"15/16"
+    },
+    "1-8":{
+       "Tap Size":"1-8",
+       "Diameter (Inches)":"1.0000",
+       "Diameter (Millimeters)":"25.4000",
+       "TPI":"8",
+       "Pitch (Millimeters)":"3.175",
+       "Tap Drill Size":"7/8"
+    },
+    "M26x1.5":{
+       "Tap Size":"M26x1.5",
+       "Diameter (Inches)":"1.0236",
+       "Diameter (Millimeters)":"26.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"24.5"
+    },
+    "M27x1.5":{
+       "Tap Size":"M27x1.5",
+       "Diameter (Inches)":"1.0630",
+       "Diameter (Millimeters)":"27.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"25.5"
+    },
+    "M27x3":{
+       "Tap Size":"M27x3",
+       "Diameter (Inches)":"1.0630",
+       "Diameter (Millimeters)":"27.0000",
+       "TPI":"~9",
+       "Pitch (Millimeters)":"3.000",
+       "Tap Drill Size":"24"
+    },
+    "M27x1":{
+       "Tap Size":"M27x1",
+       "Diameter (Inches)":"1.0630",
+       "Diameter (Millimeters)":"27.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"26"
+    },
+    "M27x2":{
+       "Tap Size":"M27x2",
+       "Diameter (Inches)":"1.0630",
+       "Diameter (Millimeters)":"27.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"25"
+    },
+    "M28x2":{
+       "Tap Size":"M28x2",
+       "Diameter (Inches)":"1.1024",
+       "Diameter (Millimeters)":"28.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"26"
+    },
+    "M28x1":{
+       "Tap Size":"M28x1",
+       "Diameter (Inches)":"1.1024",
+       "Diameter (Millimeters)":"28.0000",
+       "TPI":"~26",
+       "Pitch (Millimeters)":"1.000",
+       "Tap Drill Size":"27"
+    },
+    "M28x1.5":{
+       "Tap Size":"M28x1.5",
+       "Diameter (Inches)":"1.1024",
+       "Diameter (Millimeters)":"28.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"26.5"
+    },
+    "1":{
+       "Tap Size":"1",
+       "Diameter (Inches)":"3/4-5",
+       "Diameter (Millimeters)":"1.7500",
+       "TPI":"44.4500",
+       "Pitch (Millimeters)":"5",
+       "Tap Drill Size":"5.080"
+    },
+    "M30x1.5":{
+       "Tap Size":"M30x1.5",
+       "Diameter (Inches)":"1.1811",
+       "Diameter (Millimeters)":"30.0000",
+       "TPI":"~17",
+       "Pitch (Millimeters)":"1.500",
+       "Tap Drill Size":"28.5"
+    },
+    "M30x3.5":{
+       "Tap Size":"M30x3.5",
+       "Diameter (Inches)":"1.1811",
+       "Diameter (Millimeters)":"30.0000",
+       "TPI":"~8",
+       "Pitch (Millimeters)":"3.500",
+       "Tap Drill Size":"26.5"
+    },
+    "M30x2":{
+       "Tap Size":"M30x2",
+       "Diameter (Inches)":"1.1811",
+       "Diameter (Millimeters)":"30.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"28"
+    },
+    "M33x2":{
+       "Tap Size":"M33x2",
+       "Diameter (Inches)":"1.2992",
+       "Diameter (Millimeters)":"33.0000",
+       "TPI":"~13",
+       "Pitch (Millimeters)":"2.000",
+       "Tap Drill Size":"31"
+    },
+    "M33x3.5":{
+       "Tap Size":"M33x3.5",
+       "Diameter (Inches)":"1.2992",
+       "Diameter (Millimeters)":"33.0000",
+       "TPI":"~8",
+       "Pitch (Millimeters)":"3.500",
+       "Tap Drill Size":"29.5"
+    },
+    "M36x3":{
+       "Tap Size":"M36x3",
+       "Diameter (Inches)":"1.4173",
+       "Diameter (Millimeters)":"36.0000",
+       "TPI":"~9",
+       "Pitch (Millimeters)":"3.000",
+       "Tap Drill Size":"33"
+    },
+    "M36x4":{
+       "Tap Size":"M36x4",
+       "Diameter (Inches)":"1.4173",
+       "Diameter (Millimeters)":"36.0000",
+       "TPI":"~7",
+       "Pitch (Millimeters)":"4.000",
+       "Tap Drill Size":"32"
+    },
+    "M39x4":{
+       "Tap Size":"M39x4",
+       "Diameter (Inches)":"1.5354",
+       "Diameter (Millimeters)":"39.0000",
+       "TPI":"~7",
+       "Pitch (Millimeters)":"4.000",
+       "Tap Drill Size":"35"
+    },
+    "M39x3":{
+       "Tap Size":"M39x3",
+       "Diameter (Inches)":"1.5354",
+       "Diameter (Millimeters)":"39.0000",
+       "TPI":"~9",
+       "Pitch (Millimeters)":"3.000",
+       "Tap Drill Size":"36"
+    },
+    "M42x4.5":{
+       "Tap Size":"M42x4.5",
+       "Diameter (Inches)":"1.6535",
+       "Diameter (Millimeters)":"42.0000",
+       "TPI":"~6",
+       "Pitch (Millimeters)":"4.500",
+       "Tap Drill Size":"37.5"
+    },
+    "M45x4.5":{
+       "Tap Size":"M45x4.5",
+       "Diameter (Inches)":"1.7717",
+       "Diameter (Millimeters)":"45.0000",
+       "TPI":"~6",
+       "Pitch (Millimeters)":"4.500",
+       "Tap Drill Size":"40.5"
+    },
+    "M48x5":{
+       "Tap Size":"M48x5",
+       "Diameter (Inches)":"1.8898",
+       "Diameter (Millimeters)":"48.0000",
+       "TPI":"~6",
+       "Pitch (Millimeters)":"5.000",
+       "Tap Drill Size":"43"
+    },
+    "2-12":{
+       "Tap Size":"2-12",
+       "Diameter (Inches)":"2.0000",
+       "Diameter (Millimeters)":"50.8000",
+       "TPI":"12",
+       "Pitch (Millimeters)":"2.117",
+       "Tap Drill Size":"1"
+    },
+    "2-4":{
+       "Tap Size":"2-4",
+       "Diameter (Inches)":"1/2",
+       "Diameter (Millimeters)":"2.0000",
+       "TPI":"50.8000",
+       "Pitch (Millimeters)":"4.5",
+       "Tap Drill Size":"5.644"
+    },
+    "M52x5":{
+       "Tap Size":"M52x5",
+       "Diameter (Inches)":"2.0472",
+       "Diameter (Millimeters)":"52.0000",
+       "TPI":"~6",
+       "Pitch (Millimeters)":"5.000",
+       "Tap Drill Size":"47"
+    },
+    "M56x5.5":{
+       "Tap Size":"M56x5.5",
+       "Diameter (Inches)":"2.2047",
+       "Diameter (Millimeters)":"56.0000",
+       "TPI":"~5",
+       "Pitch (Millimeters)":"5.500",
+       "Tap Drill Size":"50.5"
+    },
+    "M60x5.5":{
+       "Tap Size":"M60x5.5",
+       "Diameter (Inches)":"2.3622",
+       "Diameter (Millimeters)":"60.0000",
+       "TPI":"~5",
+       "Pitch (Millimeters)":"5.500",
+       "Tap Drill Size":"54.5"
+    },
+    "M64x6":{
+       "Tap Size":"M64x6",
+       "Diameter (Inches)":"2.5197",
+       "Diameter (Millimeters)":"64.0000",
+       "TPI":"~5",
+       "Pitch (Millimeters)":"6.000",
+       "Tap Drill Size":"58"
+    },
+    "M68x6":{
+       "Tap Size":"M68x6",
+       "Diameter (Inches)":"2.6772",
+       "Diameter (Millimeters)":"68.0000",
+       "TPI":"~5",
+       "Pitch (Millimeters)":"6.000",
+       "Tap Drill Size":"62"
+    }
+ }
