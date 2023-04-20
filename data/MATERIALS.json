@@ -53,6 +53,58 @@
             }
         }
     },
+    "Plastics": {
+        "Acetal": {
+            "Carbide": {
+                "Drilling": 400,
+                "Milling": 800
+            },
+            "HSS": {
+                "Drilling": 200,
+                "Milling": 400
+            }
+        },
+        "Nylon": {
+            "Carbide": {
+                "Drilling": 500,
+                "Milling": 1000
+            },
+            "HSS": {
+                "Drilling": 250,
+                "Milling": 500
+            }
+        },
+        "Delrin": {
+            "Carbide": {
+                "Drilling": 250,
+                "Milling": 500
+            },
+            "HSS": {
+                "Drilling": 125,
+                "Milling": 250
+            }
+        },
+        "PVC": {
+            "Carbide": {
+                "Drilling": 300,
+                "Milling": 600
+            },
+            "HSS": {
+                "Drilling": 150,
+                "Milling": 300
+            }
+        },
+        "Polycarbonate": {
+            "Carbide": {
+                "Drilling": 400,
+                "Milling": 800
+            },
+            "HSS": {
+                "Drilling": 200,
+                "Milling": 400
+            }
+        }
+    },
     "Carbon Steel": {
         "1018": {
             "Carbide": {
