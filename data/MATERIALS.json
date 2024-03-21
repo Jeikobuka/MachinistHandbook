@@ -48,8 +48,8 @@
                 "Milling": 350
             },
             "HSS": {
-                "Drilling": 40,
-                "Milling": 200
+                "Drilling": 35,
+                "Milling": 45
             }
         }
     },
